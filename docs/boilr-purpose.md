@@ -1,0 +1,1 @@
+Just a very basic [.editorconfig](http://editorconfig.org/) file.

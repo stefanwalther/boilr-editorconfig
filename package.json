@@ -1,0 +1,20 @@
+{
+  "name": "boilr-editorconfig",
+  "version": "0.1.0",
+  "description": "boilr template for an .editorconfig",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-editorconfig.git"
+  },
+  "keywords": [
+    "boilr",
+    "boilr-template",
+    "editorconfig"
+  ],
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-editorconfig/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-editorconfig#readme"
+}
