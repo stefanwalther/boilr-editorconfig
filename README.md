@@ -5,7 +5,7 @@
 ---
 
 ## Purpose
-... Add the purpose of your template here ...
+Just a very basic .editorconfig file.
 
 The following files are generated:
 
