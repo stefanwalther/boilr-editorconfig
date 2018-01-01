@@ -1,1 +1,3 @@
-Just a very basic [.editorconfig](http://editorconfig.org/) file.
+... Add the purpose of your template here ...
+
+{%= docs("boilr-output-wrapper") %}

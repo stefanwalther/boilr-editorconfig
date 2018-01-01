@@ -5,7 +5,17 @@
 ---
 
 ## Purpose
-Just a very basic [.editorconfig](http://editorconfig.org/) file.
+... Add the purpose of your template here ...
+
+The following files are generated:
+
+```
+.
+└── .gitignore
+
+0 directories, 1 file
+
+```
 
 ## Installation
 Install [boilr](https://github.com/tmrts/boilr) first. 
