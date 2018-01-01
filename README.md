@@ -75,10 +75,10 @@ $ boilr template list
 
 ## About
 
-### Related projects
-Some related projects:
+<!-- ### Related projects -->
+<!-- Some related projects:
 
- 
+  -->
 
 ### Author
 **Stefan Walther**
