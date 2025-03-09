@@ -17,6 +17,11 @@ indent_size = 4
 trim_trailing_whitespace = false
 insert_final_newline = false
 
+[*.{py,pyi}]
+indent_style = space
+indent_size = 4
+max_line_length = 88
+
 [**/{actual,fixtures,expected}/**]
 trim_trailing_whitespace = false
 insert_final_newline = false
