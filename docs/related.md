@@ -1,7 +1,4 @@
 Some related projects:
 
-{%= related([
-  'stefanwalther/boilr-editorconfig', 
-  'stefanwalther/boilr-gitignore'
-  ]
-) %} 
+- [stefanwalther/boilr-editorconfig](https://github.com/stefanwalther/boilr-editorconfig)
+- [stefanwalther/boilr-gitignore](https://github.com/stefanwalther/boilr-gitignore)
