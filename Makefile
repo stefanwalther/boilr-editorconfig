@@ -5,11 +5,7 @@ help:														## Show this help.
 	@echo ''
 .PHONY: help
 
-gen-readme: gen-output					## Generate README.md (using docker-verb)
-	docker run --rm -v ${PWD}:/opt/verb stefanwalther/verb
-.PHONY: gen-readme
-
-gen-output:         						## Generate the sample output
+gen-output:         						## Generate the sample output (requires boilr)
 	mkdir -p ./sample ; \
 	cd ./sample; \
 	boilr template use gitignore .; \

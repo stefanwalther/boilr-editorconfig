@@ -1,5 +1,8 @@
 The following files are generated:
 
 ```
-{%= docs("boilr-output") %}
+.
+└── .gitignore
+
+1 directory, 1 file
 ```
